@@ -9,7 +9,7 @@
 
 
 ## 安装
-
+全局安装cli-web.
 ```
 npm install -g cli-web
 ```

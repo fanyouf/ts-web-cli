@@ -1,0 +1,27 @@
+{
+  "name": "cli-web",
+  "version": "1.0.1",
+  "description": "simple  way to use typescript in html",
+  "main": "index.js",
+  "bin": {
+    "cli-web": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanyoufu/cli-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fanyoufu/cli-web/issues"
+  },
+  "homepage": "https://github.com/fanyoufu/cli-web#readme",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "inquirer": "^6.2.1"
+  }
+}

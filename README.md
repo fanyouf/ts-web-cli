@@ -43,25 +43,3 @@ npm run start
 ````
 npm install -g live-server
 ````
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -34,7 +34,7 @@ npm run gulp
 ```
 前提是安装了gulp。它会执行gulpfile.js中的配置.
 
-命令1 : 
+命令2 : 
 
 ```
 npm run start

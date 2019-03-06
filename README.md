@@ -1,6 +1,6 @@
 
-# cli-web
-构建一个最小环境来学习 typescript 。
+# ts-web-cli
+在浏览器端，构建一个最小环境来学习 typescript 。
 
 - 自动builder
 - 在网页中使用
@@ -24,22 +24,29 @@ cli-web create
 
 
 ## 启动并使用项目
+要启动项目，你必须先安装两个包：gulp,live-server。
 
-开两个命令行窗口，分别执行两个命令：
+1. gulp。如果够你还没有安装，请先安装。安装命令是：
+````
+npm install -g gulp
+````
+2. live-server。如果够你还没有安装，请先安装。安装命令是：
+````
+npm install -g live-server
+````
+
+
+接下来，分别执行两个命令：
 
 命令1 : 
 
 ```
 npm run gulp
 ```
-前提是安装了gulp。它会执行gulpfile.js中的配置.
+它会执行gulpfile.js中的配置。
 
 命令2 : 
 
 ```
 npm run start
 ```
-前提是你已经全局安装了live-server。如果够你还没有安装，请先安装。安装命令是：
-````
-npm install -g live-server
-````
